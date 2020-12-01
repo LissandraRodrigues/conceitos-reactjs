@@ -64,7 +64,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 $ git clone https://github.com/LissandraRodrigues/conceitos-reactjs
 
 # O acesse.
-$ cd conceitos-nodejs
+$ cd conceitos-reactjs
 
 # Instale as dependências.
 $ yarn 
