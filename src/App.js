@@ -41,12 +41,14 @@ function App() {
 
     await api.delete(`repositories/${id}`);
 
+      const newRepositories = repositories.filter(
+
+        repository => repository.id !== id 
+  
+      )
+
     // Adiciona na lista todos os repositórios, menos o passado pelo id.
-    setRepositories(repositories.filter(
-
-      repository => repository.id !== id 
-
-    ));
+    setRepositories(newRepositories);
 
   }
 
@@ -54,7 +56,9 @@ function App() {
 
     <div>
 
+
       <ul data-testid="repository-list">
+      <h1> Repositórios </h1>
 
         { repositories.map(repository =>
           
