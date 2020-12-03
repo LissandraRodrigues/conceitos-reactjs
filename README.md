@@ -45,7 +45,7 @@ Este projeto é resultado do meu segundo desafio de código no <a href="https://
 
 ## :muscle: O que aprendi ##
 
-Veja o que aprendi a partir dos conteúdos ensinados neste módulo somado às pesquisas complementares que fiz no <a href="https://www.notion.so/Front-end-com-ReactJS-0fa0b7d788d14a3bbc6f93fbf89dcce5">meu blog no Notion.</a> [:warning: Em construção] Neste artigo, falo sobre tudo que aprendi e trago recomendações gratuitas de onde você pode estudar sobre e ir para o próximo nível :blush: :rocket: 
+Veja o que aprendi a partir dos conteúdos ensinados neste módulo somado às pesquisas complementares que fiz no <a href="https://www.notion.so/Front-end-com-ReactJS-0fa0b7d788d14a3bbc6f93fbf89dcce5">meu blog no Notion.</a> Neste artigo, falo sobre tudo que aprendi e trago recomendações gratuitas de onde você pode estudar sobre e ir para o próximo nível :blush: :rocket: 
 
 ## :rocket: Tecnologias ##
 
@@ -76,7 +76,7 @@ $ yarn dev
 
 ## :books: Onde aprender mais ##
 
-:warning: Em construção
+- <a href='https://www.notion.so/Front-end-com-ReactJS-0fa0b7d788d14a3bbc6f93fbf89dcce5'> Meu artigo sobre este módulo do Gostack. </a>
 
 ## :unlock: Licença ##
 
