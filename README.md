@@ -70,7 +70,7 @@ $ cd conceitos-reactjs
 $ yarn 
 
 # Execute o projeto.
-$ yarn dev
+$ yarn start
 
 ```
 
