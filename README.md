@@ -23,7 +23,6 @@
   <a href="#rocket-tecnologias"> Tecnologias </a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requisitos"> Requisitos </a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando"> Iniciando </a> &#xa0; | &#xa0;
-  <a href="#bulb-dica"> Dica </a> &#xa0; | &#xa0;
   <a href="#books-onde-aprender-mais"> Onde aprender mais </a> &#xa0; | &#xa0;
   <a href="#unlock-licença"> Licença </a> &#xa0; | &#xa0;
   <a href="https://www.linkedin.com/in/luiza-lissandra/" target="_blank"> Desenvolvedora </a>
@@ -41,7 +40,7 @@
 
 Este projeto é resultado do meu segundo desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat. </a> Nele fui desafiada a colocar em prática tudo que aprendi sobre ReactJS.
 
-:warning:  Este projeto é complementado pelo <a href='https://github.com/LissandraRodrigues/conceitos-nodejs'> back-end criado no primeiro desafio. </a>
+:warning:  Este projeto é complementado pelo <a href='https://github.com/LissandraRodrigues/conceitos-nodejs'> back-end criado no primeiro desafio </a> e possui uma <a href='https://github.com/LissandraRodrigues/conceitos-react-native'> versão mobile criada no terceiro desafio. </a> 
 
 ## :muscle: O que aprendi ##
 
